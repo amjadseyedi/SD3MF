@@ -33,6 +33,14 @@ GPU is used automatically if available.
 
 ---
 
+## Data Availability
+
+The datasets used in this work are **medical research datasets** and cannot be redistributed by third parties due to ethical, legal, and IRB constraints.
+
+In accordance with standard practice in the neuroimaging and medical machine learning community, we do **not** provide the raw data in this repository.
+
+---
+
 ## Dataset Format
 
 The script expects a PyTorch file named:
