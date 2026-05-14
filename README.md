@@ -1,8 +1,6 @@
-# Supervised Deep Multimodal Matrix Factorization for Brain Network Analysis
+# Supervised Deep Multimodal Matrix Factorization for Interpretable Brain Network Analysis
 
 This repository contains a PyTorch implementation of SD3MF.
-
-The code is provided for **anonymous peer review and reproducibility evaluation**.
 
 ---
 
